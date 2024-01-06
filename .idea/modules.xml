@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/warehouse-.iml" filepath="$PROJECT_DIR$/.idea/warehouse-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wsm.iml" filepath="$PROJECT_DIR$/.idea/modules/wsm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wsm.main.iml" filepath="$PROJECT_DIR$/.idea/modules/wsm.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wsm.test.iml" filepath="$PROJECT_DIR$/.idea/modules/wsm.test.iml" />
     </modules>
   </component>
 </project>
